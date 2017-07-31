@@ -1,0 +1,30 @@
+/*
+body {
+  background-color: #222;
+}
+
+p {
+  color: #fff;
+}
+*/
+
+section .font-cinderblock {
+  font-family: 'Cinderblock-125', Helvetica, Arial, Sans-Serif;
+  font-size: 208px;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.about-me {
+  font-family: 'GreycliffCF-Medium', Helvetica, Arial, Sans-Serif;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.about-me ul {
+  padding: 0;
+}
+
+.about-me ul li {
+  list-style-type: none;
+}
